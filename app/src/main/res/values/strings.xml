@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerListView</string>
+    <string name="content_description_image">image</string>
+    <string name="text_view_text">name</string>
+    <string name="price_text_view_text">1000</string>
+</resources>
